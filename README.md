@@ -1,4 +1,4 @@
-# Sentiment-Analysis-with-IMDB-datasets
+# Sentiment-Analysis-on-Movie-Reviews
 
 ## The IMDB Datasets
 The "Large Movie Review Dataset" is used in this project. It has a collection of 50,000 reviews from IMDB, with 25,000 positive reviews and 25,000 negative.
