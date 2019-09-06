@@ -7,10 +7,5 @@ Download and decompress the training and testing data from:
 https://ai.stanford.edu/~amaas/data/sentiment/.
 There will be one folder name "aclImdb", in which contains both "train" and "test" folders. 
 
-## Running the program
-Put the IPython Notebook in the same directory as the "aclImdb" folder. 
-Then, run the notebook to see the results.
-
-
 ## Results:
 Logistic Regression performs the best prediction, with an accuracy of 88.34%.
